@@ -117,7 +117,6 @@ public class ChatClient extends JFrame implements Runnable {
 	}
 	
 	private void setup() {
-		// TODO Auto-generated method stub
 		setSize(600, 400);
 		
 		JPanel panel = new JPanel();
